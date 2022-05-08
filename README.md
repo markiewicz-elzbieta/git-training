@@ -1,3 +1,3 @@
 # git-training
 
-ale narovię zmian
+ale narobię zmian
